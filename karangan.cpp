@@ -1,0 +1,53 @@
+#include<iostream>
+using namespace std;
+int main ()
+{
+cout<<"              Ini Karangan  \n\n";
+cout<<"     Ini";
+cout<<" merupakan ";
+cout<<"karangan ";
+cout<<"saya ";
+cout<<"dan "<<endl;
+cout<<"saya ";
+cout<<"pun ";
+cout<<"tidak ";
+cout<<"mengerti  ";
+cout<<"apa  ";
+cout<<"yang "<<endl;
+cout<<"saya ";
+cout<<"tulis ";
+cout<<"dan saya harus ";
+cout<<"menulis karangan. "<<endl<<endl;
+cout<<"     Saya ";
+cout<<"akan ";
+cout<<"menulis ";
+cout<<"karangan ";
+cout<<"demi ";
+cout<<"mendapat "<<endl;
+cout<<"nilai ";
+cout<<"saya ";
+cout<<"harus ";
+cout<<"menulis ";
+cout<<"karangan ";
+cout<<"sekarang ";
+cout<<"juga "<<endl;
+cout<<"supaya saya ";
+cout<<"mendapat 10 nilai atau 10 poin."<<endl<<endl;
+cout<<"     Dan ";
+cout<<"sekarang ";
+cout<<"pun ";
+cout<<"saya ";
+cout<<"masih ";
+cout<<"belum ";
+cout<<"menemukan "<<endl;
+cout<<"ide ";
+cout<<"untuk ";
+cout<<"menulis ";
+cout<<"karangan ";
+cout<<"dan ";
+cout<<"sekarang ";
+cout<<"pun saya masih "<<endl;
+cout<<"berpikir untuk menemukan ide untuk menuliskan suatu karangan.\n\n";
+cout<<"                                         Rendi Putra Pradana";
+return 0;
+}
